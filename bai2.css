@@ -1,0 +1,27 @@
+table{
+    border: 2px solid #fdfefe;
+    font-family: sans-serif;
+    width: 900px;
+    height: 300px;
+}
+.the-first{
+    text-transform: uppercase;
+    color: #2e86c1;
+}
+.h1{
+    color: #21618c;
+}
+.the-third{
+    color: #2e86c1;
+}
+.the-second{
+    font-weight: bold;
+
+}
+.blue{
+    color: #2e86c1;
+}
+.the-last{
+    text-align: right;
+    font-style: italic;
+}
